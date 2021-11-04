@@ -21,7 +21,7 @@
 6. Create the profile by clicking CREATE on the bottom right, and then launch the installation to allow for all of the necessary
    files to install. 
 7. Once Minecraft has launched, allow for it to load for around 20 seconds and then close every instance of Minecraft running. 
-8. Move the "liteconfig","mods" and "schematics" folders from your extracted CBTCane.zip to your minecraft installation folder
+8. Move the "liteconfig","mods" and "schematics" folders from your extracted SB+Cane.zip to your minecraft installation folder
    - If you are running the default installation, you would move the two folders to .minecraft
    - If you are running a custom instance, you would install it to whatever folder you chose. 
 9. Launch your script installation once again to allow for the mods and scripts to inject. 
